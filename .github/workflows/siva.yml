@@ -2,9 +2,9 @@ name: .NET
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "koya" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "koya" ]
 
 jobs:
   build:
